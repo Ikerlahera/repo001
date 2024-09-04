@@ -21,6 +21,7 @@
 5. Compruebo el estado.
 
 ![alt text](image-3.png) 
+
 6. Y ahora hago un commit al repositorio local.
 
 
