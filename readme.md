@@ -22,12 +22,12 @@
 
 ![alt text](image-3.png) 
 
-6. Y ahora hago un commit al repositorio local.
+6. Y ahora hago un commit al repositorio local. El fichero ahora esta en estado "Commited"
 
 
 ![alt text](image-4.png)
 
-7. Para añadirlo al repositorio remoto utilizo el comando "git remote add origin".
+7. Si hacemos un push da un error, si hacemos un git remote -v veremos que no aparece nada esto se debe a que no tenemos el repositorio local asociado a ningun repositorio remoto.  Para añadir el repositorio local al repositorio remoto utilizo el comando "git remote add origin" y el enlace al repositorio remoto.
 
 ![alt text](image-5.png)
 
