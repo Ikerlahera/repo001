@@ -32,3 +32,4 @@
 
 8. Para hacer el primer push lo pongo con -u origin master o --set-upstream origin master.
 
+9. Para los proximos push bastara con poner simplemente un git push
