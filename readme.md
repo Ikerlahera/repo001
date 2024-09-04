@@ -21,5 +21,5 @@ Para añadirlo al repositorio remoto utilizo el comando "git remote add origin".
 
 ![alt text](image-5.png)
 
-El primer push lo pongo con -u origin master o --set-upstream origin master.
+Para hacer el primer push lo pongo con -u origin master o --set-upstream origin master.
 
